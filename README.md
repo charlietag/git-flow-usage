@@ -8,3 +8,4 @@
   * This line is from USER A for version 0.3.0
 * 0.4.0
   * function d
+  * This line is from USER A for version 0.4.0
