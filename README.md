@@ -5,3 +5,4 @@
   * This line is from USER A
 * 0.3.0
   * function c
+  * This line is from USER A for version 0.3.0
