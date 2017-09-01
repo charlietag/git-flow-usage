@@ -3,6 +3,8 @@
 * 0.2.0
   * function b
   * This line is from USER A
+  * 0.2.1
+    * fix function B
 * 0.3.0
   * function c
   * This line is from USER A for version 0.3.0
